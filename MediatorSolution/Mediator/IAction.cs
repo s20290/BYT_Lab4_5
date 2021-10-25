@@ -1,0 +1,4 @@
+interface IAction
+{
+    void hitPlayer();
+}
