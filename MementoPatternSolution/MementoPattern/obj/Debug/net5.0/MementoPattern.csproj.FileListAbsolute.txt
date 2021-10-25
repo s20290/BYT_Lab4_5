@@ -1,0 +1,16 @@
+D:\pjatk\3rd year\5thSemester\BYT\tutorial\4\BYT_Lab4_5\MementoPatternSolution\MementoPattern\bin\Debug\net5.0\MementoPattern.exe
+D:\pjatk\3rd year\5thSemester\BYT\tutorial\4\BYT_Lab4_5\MementoPatternSolution\MementoPattern\bin\Debug\net5.0\MementoPattern.deps.json
+D:\pjatk\3rd year\5thSemester\BYT\tutorial\4\BYT_Lab4_5\MementoPatternSolution\MementoPattern\bin\Debug\net5.0\MementoPattern.runtimeconfig.json
+D:\pjatk\3rd year\5thSemester\BYT\tutorial\4\BYT_Lab4_5\MementoPatternSolution\MementoPattern\bin\Debug\net5.0\MementoPattern.runtimeconfig.dev.json
+D:\pjatk\3rd year\5thSemester\BYT\tutorial\4\BYT_Lab4_5\MementoPatternSolution\MementoPattern\bin\Debug\net5.0\MementoPattern.dll
+D:\pjatk\3rd year\5thSemester\BYT\tutorial\4\BYT_Lab4_5\MementoPatternSolution\MementoPattern\bin\Debug\net5.0\ref\MementoPattern.dll
+D:\pjatk\3rd year\5thSemester\BYT\tutorial\4\BYT_Lab4_5\MementoPatternSolution\MementoPattern\bin\Debug\net5.0\MementoPattern.pdb
+D:\pjatk\3rd year\5thSemester\BYT\tutorial\4\BYT_Lab4_5\MementoPatternSolution\MementoPattern\obj\Debug\net5.0\MementoPattern.csproj.AssemblyReference.cache
+D:\pjatk\3rd year\5thSemester\BYT\tutorial\4\BYT_Lab4_5\MementoPatternSolution\MementoPattern\obj\Debug\net5.0\MementoPattern.GeneratedMSBuildEditorConfig.editorconfig
+D:\pjatk\3rd year\5thSemester\BYT\tutorial\4\BYT_Lab4_5\MementoPatternSolution\MementoPattern\obj\Debug\net5.0\MementoPattern.AssemblyInfoInputs.cache
+D:\pjatk\3rd year\5thSemester\BYT\tutorial\4\BYT_Lab4_5\MementoPatternSolution\MementoPattern\obj\Debug\net5.0\MementoPattern.AssemblyInfo.cs
+D:\pjatk\3rd year\5thSemester\BYT\tutorial\4\BYT_Lab4_5\MementoPatternSolution\MementoPattern\obj\Debug\net5.0\MementoPattern.csproj.CoreCompileInputs.cache
+D:\pjatk\3rd year\5thSemester\BYT\tutorial\4\BYT_Lab4_5\MementoPatternSolution\MementoPattern\obj\Debug\net5.0\MementoPattern.dll
+D:\pjatk\3rd year\5thSemester\BYT\tutorial\4\BYT_Lab4_5\MementoPatternSolution\MementoPattern\obj\Debug\net5.0\ref\MementoPattern.dll
+D:\pjatk\3rd year\5thSemester\BYT\tutorial\4\BYT_Lab4_5\MementoPatternSolution\MementoPattern\obj\Debug\net5.0\MementoPattern.pdb
+D:\pjatk\3rd year\5thSemester\BYT\tutorial\4\BYT_Lab4_5\MementoPatternSolution\MementoPattern\obj\Debug\net5.0\MementoPattern.genruntimeconfig.cache
