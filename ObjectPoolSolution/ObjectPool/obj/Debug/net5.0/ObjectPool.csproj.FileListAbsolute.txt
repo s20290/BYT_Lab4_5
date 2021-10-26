@@ -1,0 +1,16 @@
+D:\pjatk\3rd year\5thSemester\BYT\tutorial\4\BYT_Lab4_5\ObjectPoolSolution\ObjectPool\bin\Debug\net5.0\ObjectPool.exe
+D:\pjatk\3rd year\5thSemester\BYT\tutorial\4\BYT_Lab4_5\ObjectPoolSolution\ObjectPool\bin\Debug\net5.0\ObjectPool.deps.json
+D:\pjatk\3rd year\5thSemester\BYT\tutorial\4\BYT_Lab4_5\ObjectPoolSolution\ObjectPool\bin\Debug\net5.0\ObjectPool.runtimeconfig.json
+D:\pjatk\3rd year\5thSemester\BYT\tutorial\4\BYT_Lab4_5\ObjectPoolSolution\ObjectPool\bin\Debug\net5.0\ObjectPool.runtimeconfig.dev.json
+D:\pjatk\3rd year\5thSemester\BYT\tutorial\4\BYT_Lab4_5\ObjectPoolSolution\ObjectPool\bin\Debug\net5.0\ObjectPool.dll
+D:\pjatk\3rd year\5thSemester\BYT\tutorial\4\BYT_Lab4_5\ObjectPoolSolution\ObjectPool\bin\Debug\net5.0\ref\ObjectPool.dll
+D:\pjatk\3rd year\5thSemester\BYT\tutorial\4\BYT_Lab4_5\ObjectPoolSolution\ObjectPool\bin\Debug\net5.0\ObjectPool.pdb
+D:\pjatk\3rd year\5thSemester\BYT\tutorial\4\BYT_Lab4_5\ObjectPoolSolution\ObjectPool\obj\Debug\net5.0\ObjectPool.csproj.AssemblyReference.cache
+D:\pjatk\3rd year\5thSemester\BYT\tutorial\4\BYT_Lab4_5\ObjectPoolSolution\ObjectPool\obj\Debug\net5.0\ObjectPool.GeneratedMSBuildEditorConfig.editorconfig
+D:\pjatk\3rd year\5thSemester\BYT\tutorial\4\BYT_Lab4_5\ObjectPoolSolution\ObjectPool\obj\Debug\net5.0\ObjectPool.AssemblyInfoInputs.cache
+D:\pjatk\3rd year\5thSemester\BYT\tutorial\4\BYT_Lab4_5\ObjectPoolSolution\ObjectPool\obj\Debug\net5.0\ObjectPool.AssemblyInfo.cs
+D:\pjatk\3rd year\5thSemester\BYT\tutorial\4\BYT_Lab4_5\ObjectPoolSolution\ObjectPool\obj\Debug\net5.0\ObjectPool.csproj.CoreCompileInputs.cache
+D:\pjatk\3rd year\5thSemester\BYT\tutorial\4\BYT_Lab4_5\ObjectPoolSolution\ObjectPool\obj\Debug\net5.0\ObjectPool.dll
+D:\pjatk\3rd year\5thSemester\BYT\tutorial\4\BYT_Lab4_5\ObjectPoolSolution\ObjectPool\obj\Debug\net5.0\ref\ObjectPool.dll
+D:\pjatk\3rd year\5thSemester\BYT\tutorial\4\BYT_Lab4_5\ObjectPoolSolution\ObjectPool\obj\Debug\net5.0\ObjectPool.pdb
+D:\pjatk\3rd year\5thSemester\BYT\tutorial\4\BYT_Lab4_5\ObjectPoolSolution\ObjectPool\obj\Debug\net5.0\ObjectPool.genruntimeconfig.cache
